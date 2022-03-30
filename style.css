@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@700&family=Roboto&display=swap');
+
+body {
+    background-color: #D0D7FE;
+    width: 1440px;
+    height: 1024px;
+    margin: auto;
+    position: relative;
+}
+
+.whiteblock {
+    position: absolute;
+    width: 1058px;
+    height: 786px;
+    left: 191px;
+    top: 119px;
+    background: white;
+}
+
+.header {
+    position: absolute;
+    width: 145px;
+    height: 40px;
+    left: 456px;
+    top: 87px;
+
+    font: normal bold 30px /133.02% 'Kanit';
+    margin: 0;
+
+    color: #09165F;
+}
